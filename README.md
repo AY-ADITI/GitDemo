@@ -1,2 +1,7 @@
 # GitDemo Project
-This is my Git demo repository for practicing Git commands.
+
+This repository is for practicing Git commands as part of my exercise.
+
+## Files in this repo
+- notes.txt
+- .gitignore
